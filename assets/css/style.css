@@ -1379,17 +1379,17 @@ section {
 .contact .info-box {
   color: #444;
   text-align: center;
-  box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
+  box-shadow: 0 0 30px #585858;
   padding: 20px 0 30px 0;
   margin-bottom: 30px;
 }
 
 .contact .info-box i {
   font-size: 32px;
-  color: #68A4C4;
+  color: #FBA70E;
   border-radius: 50%;
   padding: 8px;
-  border: 2px dotted #a2cce3;
+  border: 4px dotted #1D9C9A;
 }
 
 .contact .info-box h3 {
@@ -1407,7 +1407,7 @@ section {
 }
 
 .contact .php-email-form {
-  box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
+  box-shadow: 0 0 30px #585858;
   padding: 30px;
   margin-bottom: 30px;
 }
@@ -1474,7 +1474,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #68A4C4;
+  background: #FBA70E;
   border: 0;
   padding: 10px 24px;
   color: #fff;
